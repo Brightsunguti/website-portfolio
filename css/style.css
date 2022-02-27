@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    height: 1150px;
+    background-color: rgb(201, 181, 181);
+    
+}
+.class1{
+    width: 98%;
+    height: 70px;
+    background-color:grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.class1 a{
+    text-decoration: none;
+    padding: 5px;
+    background-color: lightskyblue;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+
+
+}
+.class2{
+    height: 650px;
+    width: 98%;
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: space-evenly;
+}
+.about, .image{
+    height: 600px;
+    width: 48%;
+    
+}
+.image{
+    background-image: url("/Portfolio/img/photo.jpeg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: -5px -5px 4px grey;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.about1{
+    height: 200px;
+    width: 98%;
+    
+    
+}
+.about2{
+    height: 350px;
+    width: 98%;
+    
+}
+.class3{
+    width: 98%;
+    height:  420px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+   
+}
+.one{
+    height: 400px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+    background-color: beige;
+}
+.one img{
+    height: 250px;
+    width: 90%;
+    
+}
+.one p{
+    text-align: center; 
+}
+
+
