@@ -15,16 +15,16 @@ body{
     align-items: center;
     justify-content: space-evenly;
 }
-.class1 a{
+ .class1 a{ 
     text-decoration: none;
     padding: 5px;
     background-color: lightskyblue;
     color: black;
     font-weight: bold;
-    border-radius: 5px;
+    border-radius: 5px; 
 
 
-}
+ }
 /* .class2{ 
     height: 650px;
     width: 98%;
