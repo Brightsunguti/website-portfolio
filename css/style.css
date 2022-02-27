@@ -40,7 +40,7 @@ body{
     
 }
 .image{
-    background-image: url("/Portfolio/img/photo.jpeg");
+    background-image: url("/img/photo.jpeg");
     background-size: cover;
     background-position: center;
     border-radius: 10px;
